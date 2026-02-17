@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Amber",
+  "base_artist": "さらさ",
+  "createdAt": "2026-02-17T15:09:58.698118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Stranger (by f(Amber+Luna+Krystal))",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Stranger_(by_f(Amber+Luna+Krystal))_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Stranger (by Amber+Luna+Krystal)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Beautiful_Stranger_(by_Amber+Luna+Krystal)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (feat. D.O. of EXO-K))",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/03_Goodbye_Summer_(f(Amber+Luna+Krystal)_(feat._D.O._of_EXO-K))_f(x).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (Feat. D.O.)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/04_Goodbye_Summer_(f(Amber+Luna+Krystal)_(Feat._D.O.)_f(x).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Peace Of Light (Feat. Amber Coffman, Angel Deradoorian & Haley Dekle)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/05_A_Peace_Of_Light_(Feat._Amber_Coffman,_Angel_Deradoorian_&_Haley_Dekle)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Elegy (feat. Mary Lattimore & Amber Webber)",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/06_Elegy_(feat._Mary_Lattimore_&_Amber_Webber)_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stuck on Amber",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/07_Stuck_on_Amber_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "At Amber",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/08_At_Amber_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amber & Fire",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/09_Amber_&_Fire_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amber Light",
+      "artist": "November-7",
+      "has_synced": false,
+      "path": "select/10_Amber_Light_November-7.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amber Rain",
+      "artist": "Coil",
+      "has_synced": false,
+      "path": "select/11_Amber_Rain_Coil.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Amber",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/12_Sweet_Amber_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Amber",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/13_Sweet_Amber_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amber Rolls (feat. Rylo Rodriguez, Yo Gotti and Lil Keed)",
+      "artist": "Kodak Black feat. Rylo Rodriguez, Yo Gotti & Lil Keed",
+      "has_synced": true,
+      "path": "select/14_Amber_Rolls_(feat._Rylo_Rodriguez,_Yo_Gotti_and_Lil_Keed)_Kodak_Black_feat._Rylo_Rodriguez,_Yo_Gotti_&_Lil_Keed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Amber",
+      "artist": "さらさ",
+      "has_synced": false,
+      "path": "select/pl_01_Amber_さらさ.txt"
+    }
+  ]
+}
